@@ -1,0 +1,36 @@
+{
+  "name": "kpicker",
+  "version": "0.0.1",
+  "description": "DateTime picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrushkin2/kPicker.git"
+  },
+  "keywords": [
+    "date",
+    "datetime",
+    "datepicker",
+    "daterangepicker",
+    "rangepicker"
+  ],
+  "author": "Andrei Kozyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrushkin2/kPicker/issues"
+  },
+  "homepage": "https://github.com/andrushkin2/kPicker#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "less": "^2.7.2",
+    "typescript": "^2.1.4"
+  }
+}
